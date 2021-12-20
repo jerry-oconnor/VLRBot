@@ -5,3 +5,6 @@ Discord bot for VLR.GG
 !news - returns top news stories from vlr.gg homepage  
 !upcoming - returns details of upcoming matches  
 !results - returns results of completed matchesn  
+
+# Token 
+discord bot token is found in .env file, private token can be added there 
