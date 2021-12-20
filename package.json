@@ -1,0 +1,20 @@
+{
+  "name": "vlrbot",
+  "version": "1.0.0",
+  "Description": "exports scores from vlr.gg",
+  "main": "bot.js",
+  "author": "Jeremiah O'Connor",
+  "dependencies": {
+    "axios": "^0.24.0",
+    "discord.io": "^2.5.3",
+    "discord.js": "^13.3.1",
+    "dotenv": "^10.0.0",
+    "winston": "^3.3.3"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "license": "ISC",
+  "description": ""
+}
