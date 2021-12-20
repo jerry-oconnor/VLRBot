@@ -8,3 +8,8 @@ Discord bot for VLR.GG
 
 # Token 
 discord bot token is found in .env file, private token can be added there 
+
+# To Run 
+· Install NodeJS to same directory as JS files, add a bot  
+· Generate Discord Bot/Application and Token here -- https://discord.com/developers/applications
+· Add bot to your server and run locally via console 
